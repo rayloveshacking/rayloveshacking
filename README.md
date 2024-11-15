@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a **Programmer** and **Penetration Tester**, p
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to connect with me:
 
-- 📧 Email: [Your Email Address](mailto:winchestervicious@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/thar-htet-s-0368662a4/)
+- 📧 Email: [My Email Address](mailto:winchestervicious@gmail.com)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/thar-htet-s-0368662a4/)
 
 Let's build something amazing together!
 
