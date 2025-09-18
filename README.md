@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a **Programmer** and **Penetration Tester**, passionate about coding, cybersecurity, and building secure and efficient software.
+Welcome to my GitHub profile! I'm a **Programmer** and **Penetration Tester**, passionate about Ai Engineering, cybersecurity, and building secure and efficient software.
 
 ## About Me
 
-- 💻 **Programming**: I specialize in writing clean, maintainable, and scalable code. I work with a variety of languages, tools, and frameworks including Python, JavaScript, C, and more.
+- 💻 **Programming**: I specialize in writing clean, maintainable, and scalable code. I work with a variety of languages, tools, and frameworks including Python, JavaScript, C#, and more.
 - 🛡️ **Penetration Testing**: I conduct vulnerability assessments and penetration tests to ensure applications and networks are secure against threats.
-- 🎓 **Continuous Learner**: Always exploring new technologies and methodologies to improve my skills.
+- 🎓 **Ai Engineering**: I practice and learn about tools in Ai Engineering field and hone my skill continuously.
 - 🌍 **Open Source Enthusiast**: I believe in the power of open-source and enjoy contributing to community projects.
 
 ## Skills
@@ -14,21 +14,18 @@ Welcome to my GitHub profile! I'm a **Programmer** and **Penetration Tester**, p
 ### Programming Languages
 - Python
 - JavaScript (Node.js, React, etc.)
-- C/C++
-- Dart
+- C#
 
 ### Cybersecurity Tools & Techniques
 - Kali Linux
 - Metasploit Framework
 - Burp Suite
-- Wireshark
-- OWASP ZAP
+
+### AI Engineering
+- Langchain
 
 ### Other Skills
-- Web Development (Frontend & Backend)
-- API Security
 - Database Management (SQL, NoSQL)
-- DevSecOps Practices
 
 ## Get in Touch
 
