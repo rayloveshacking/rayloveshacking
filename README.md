@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a **Programmer** and **Penetration Tester**, p
 - Python
 - JavaScript (Node.js, React, etc.)
 - C#
+- C++
 
 ### Cybersecurity Tools & Techniques
 - Kali Linux
