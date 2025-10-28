@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a **Programmer** and **Penetration Tester**, p
 
 ## About Me
 
-- 💻 **Programming**: I specialize in writing clean, maintainable, and scalable code. I work with a variety of languages, tools, and frameworks including Python, JavaScript, C#, and more.
+- 💻 **Programming**: I specialize in writing clean, maintainable, and scalable code. I work with a variety of languages, tools, and frameworks including Python, JavaScript, C#, C++ and more.
 - 🛡️ **Penetration Testing**: I conduct vulnerability assessments and penetration tests to ensure applications and networks are secure against threats.
 - 🎓 **Ai Engineering**: I practice and learn about tools in Ai Engineering field and hone my skill continuously.
-- 🌍 **Open Source Enthusiast**: I believe in the power of open-source and enjoy contributing to community projects.
+- 🌍 **Open Source Enthusiast**: I believe in the power of open-source.
 
 ## Skills
 
